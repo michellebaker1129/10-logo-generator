@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-            <svg viewBox="-10 -10 310 210" xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="300">
-                <polygon style="transform: translateX(50px);" points="0,0 200,0 100,200" fill="black" />
-                <text text-anchor="middle" font-size="60" x="49%" y="50%" fill="white">jhg</text>
+            <svg viewBox="0 0 300 240" xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="300">
+                <circle cx="50%" cy="50%" r="100" stroke="black" stroke-width="3" fill="black" />
+                <text text-anchor="middle" font-size="60" x="50%" y="55%" fill="white">iii</text>
             </svg>
         

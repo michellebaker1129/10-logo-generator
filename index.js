@@ -14,14 +14,16 @@ class SvgBuilder {
     this.questions = [
       // question for text (up to 3 chars)
       {
-        // type: (String) Type of the prompt. Defaults: input - Possible values: input, number, confirm, list, rawlist, expand, checkbox, password, editor
         type: "input",
-
-        // name: (String) The name to use when storing the answer in the answers hash. If the name contains periods, it will define a path in the answers hash.
         name: "textInput",
-
-        // message: (String|Function) The question to print. If defined as a function, the first parameter will be the current inquirer session answers. Defaults to the value of name (followed by a colon).
         message: "Enter up to three characters for your logo.",
+        validate: (input) => {
+          if (input.length > 3) {
+            return "Please enter up to three characters.";
+          } else {
+            return true;
+          }
+        },
       },
       // question for text color (black or #000)
       {
