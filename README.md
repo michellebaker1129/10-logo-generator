@@ -2,6 +2,16 @@
 
 
 
+Deliverables: 15%
+At least one sample SVG file generated using the application must be submitted.
+Your GitHub repository containing your application code.
+
+Technical Acceptance Criteria: 40%
+Satisfies all of the preceding acceptance criteria plus the following:
+Uses the Inquirer packageLinks to an external site.
+Uses the Jest packageLinks to an external site. for a suite of unit tests.
+The application must have Triangle, Square, and Circle classes.
+
 
 User Story
 AS a freelance web developer
