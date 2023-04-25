@@ -1,4 +1,4 @@
-# 10-logo-generator
+# Logo Generator
 
 ## Table of Contents
 - [Description](#Description)
@@ -42,7 +42,7 @@ Clone the repository and run npm i.
 
 ### Usage
 Anwser the guided prompts carefully to create your very own logo.
-[Quick how-to video here](https://watch.screencastify.com/v/7zW3MQ88Kqc153VWdcPh)
+[Quick how-to video here](https://watch.screencastify.com/v/sBGGkAEPsGWo6H1MF74L)
 
 
 ### Credits
