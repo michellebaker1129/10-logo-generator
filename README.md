@@ -1,26 +1,23 @@
 # 10-logo-generator
 
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [License](#License)
+- [Badges](#Badges)
 
 
-Deliverables: 15%
-At least one sample SVG file generated using the application must be submitted.
-Your GitHub repository containing your application code.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following:
-Uses the Inquirer packageLinks to an external site.
-Uses the Jest packageLinks to an external site. for a suite of unit tests.
-The application must have Triangle, Square, and Circle classes.
-
-
-User Story
+### Description
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
 Acceptance Criteria
 GIVEN a command-line application that accepts user input
-
 WHEN I am prompted for text
 THEN I can enter up to three characters
 
@@ -40,8 +37,16 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
-TODO:
-sans serif font
+### Installation
+Clone the repository and run npm i.
 
-TODO: 
-writing tests
+### Usage
+Anwser the guided prompts carefully to create your very own logo.
+[Quick how-to video here](https://watch.screencastify.com/v/7zW3MQ88Kqc153VWdcPh)
+
+
+### Credits
+UC Berkeley Coding Bootcamp, (https://bootcamp.berkeley.edu/coding/)
+
+### License
+GPL 
